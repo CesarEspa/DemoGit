@@ -7,3 +7,6 @@ print("Commit nuevo")
 
 print("Commit nuevo")
 print("Me llamo Juan David")
+print("Bienvenidos")
+nombre=input("cual es tu nombre:")
+print("Bienvenido", nombre)
